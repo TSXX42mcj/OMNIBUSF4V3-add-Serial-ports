@@ -1,0 +1,3 @@
+# OMNIBUSF4V3-add-Serial-ports
+add UART ports to OMNIBUSF4V3
+USE WITH INAV4.1.0
